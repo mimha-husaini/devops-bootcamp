@@ -1,0 +1,12 @@
+[
+    [
+        "nat-057856710518435f9",
+        "available"
+    ]
+]
+[
+    "18.143.5.86"
+]
+[
+    "393450686639.dkr.ecr.ap-southeast-1.amazonaws.com/devops-bootcamp/mhusaini"
+]
