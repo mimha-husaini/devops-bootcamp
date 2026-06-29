@@ -1,0 +1,7 @@
+# 2 nameserver Cloudflare
+dana.ns.cloudflare.com
+ignacio.ns.cloudflare.com
+# URL pages.dev.portfolio awa dari github + custom domain
+mimha-husaini-github-io.pages.dev + devops.husainibrahim.com
+# URL private-site custom subdomain
+private-site.husainibrahim.com
