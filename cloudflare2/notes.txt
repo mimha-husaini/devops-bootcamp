@@ -1,0 +1,3 @@
+Pada sesi kali ini, kita belajar bagaimana attach menggunakan tunnel untuk akses private subnet di EC2, 
+pada sesi pertama, kita menggunakan nginx untuk expose public IP dan assign custom subdomain dari cloudflare the public IP tersebut.
+Juga kita test bagaimana guna DNS only and Proxied di DNS CF.
