@@ -1,0 +1,8 @@
+393450686639.dkr.ecr.ap-southeast-1.amazonaws.com/devops-bootcamp/mhusaini:latest
+DRIVER    VOLUME NAME
+local     me
+NETWORK ID     NAME      DRIVER    SCOPE
+3657256ffe7a   arena     bridge    local
+63162dc67b3b   bridge    bridge    local
+cab57cff4b9b   host      host      local
+0531d1626dc4   none      null      local
