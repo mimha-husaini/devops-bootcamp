@@ -1,4 +1,3 @@
-# ...sama seperti userdata.sh
 #!/bin/bash
 curl -fsSL https://get.docker.com | sh
 id ssm-user &>/dev/null || useradd -m ssm-user
